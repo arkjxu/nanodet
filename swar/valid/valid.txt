@@ -1,0 +1,15 @@
+/Users/arkjxu/Projects/go/nanodet/swar/valid/100_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/115_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/139_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/140_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/14_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/151_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/159_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/161_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/44_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/46_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/47_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/51_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/62_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/86_png.jpg
+/Users/arkjxu/Projects/go/nanodet/swar/valid/mentorpage_png.jpg
