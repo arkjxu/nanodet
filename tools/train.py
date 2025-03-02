@@ -120,6 +120,7 @@ def main(args):
             cfg.device.precision,
         )
     else:
+        logger.info("Using GPU training")
         accelerator, devices, strategy, precision = (
             "gpu",
             cfg.device.gpu_ids,
