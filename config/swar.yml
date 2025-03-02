@@ -5,7 +5,7 @@
 #           AP_small = 0.106
 #               AP_m = 0.322
 #               AP_l = 0.477
-save_dir: workspace/nanodet-plus-m_416
+save_dir: workspace/swar
 model:
   weight_averager:
     name: ExpMovingAverager
@@ -124,7 +124,7 @@ data:
     pipeline:
       normalize: [[103.53, 116.28, 123.675], [57.375, 57.12, 58.395]]
 device:
-  gpu_ids: -1
+  gpu_ids: [0]
   workers_per_gpu: 10
   batchsize_per_gpu: 96
 schedule:
